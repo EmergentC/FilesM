@@ -1,0 +1,206 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "value": "data_1",
+      "note": "BEGIN_TEST_MARKER"
+    },
+    {
+      "id": 2,
+      "value": "data_2"
+    },
+    {
+      "id": 3,
+      "value": "data_3"
+    },
+    {
+      "id": 4,
+      "value": "data_4"
+    },
+    {
+      "id": 5,
+      "value": "data_5"
+    },
+    {
+      "id": 6,
+      "value": "data_6"
+    },
+    {
+      "id": 7,
+      "value": "data_7"
+    },
+    {
+      "id": 8,
+      "value": "data_8"
+    },
+    {
+      "id": 9,
+      "value": "data_9"
+    },
+    {
+      "id": 10,
+      "value": "data_10"
+    },
+    {
+      "id": 11,
+      "value": "data_11"
+    },
+    {
+      "id": 12,
+      "value": "data_12"
+    },
+    {
+      "id": 13,
+      "value": "data_13"
+    },
+    {
+      "id": 14,
+      "value": "data_14"
+    },
+    {
+      "id": 15,
+      "value": "data_15"
+    },
+    {
+      "id": 16,
+      "value": "data_16"
+    },
+    {
+      "id": 17,
+      "value": "data_17"
+    },
+    {
+      "id": 18,
+      "value": "data_18"
+    },
+    {
+      "id": 19,
+      "value": "data_19"
+    },
+    {
+      "id": 20,
+      "value": "data_20"
+    },
+    {
+      "id": 21,
+      "value": "data_21"
+    },
+    {
+      "id": 22,
+      "value": "data_22"
+    },
+    {
+      "id": 23,
+      "value": "data_23"
+    },
+    {
+      "id": 24,
+      "value": "data_24"
+    },
+    {
+      "id": 25,
+      "value": "data_25"
+    },
+    {
+      "id": 26,
+      "value": "data_26"
+    },
+    {
+      "id": 27,
+      "value": "data_27"
+    },
+    {
+      "id": 28,
+      "value": "data_28"
+    },
+    {
+      "id": 29,
+      "value": "data_29"
+    },
+    {
+      "id": 30,
+      "value": "data_30"
+    },
+    {
+      "id": 31,
+      "value": "data_31"
+    },
+    {
+      "id": 32,
+      "value": "data_32"
+    },
+    {
+      "id": 33,
+      "value": "data_33"
+    },
+    {
+      "id": 34,
+      "value": "data_34"
+    },
+    {
+      "id": 35,
+      "value": "data_35"
+    },
+    {
+      "id": 36,
+      "value": "data_36"
+    },
+    {
+      "id": 37,
+      "value": "data_37"
+    },
+    {
+      "id": 38,
+      "value": "data_38"
+    },
+    {
+      "id": 39,
+      "value": "data_39"
+    },
+    {
+      "id": 40,
+      "value": "data_40"
+    },
+    {
+      "id": 41,
+      "value": "data_41"
+    },
+    {
+      "id": 42,
+      "value": "data_42"
+    },
+    {
+      "id": 43,
+      "value": "data_43"
+    },
+    {
+      "id": 44,
+      "value": "data_44"
+    },
+    {
+      "id": 45,
+      "value": "data_45"
+    },
+    {
+      "id": 46,
+      "value": "data_46"
+    },
+    {
+      "id": 47,
+      "value": "data_47"
+    },
+    {
+      "id": 48,
+      "value": "data_48"
+    },
+    {
+      "id": 49,
+      "value": "data_49"
+    },
+    {
+      "id": 50,
+      "value": "data_50",
+      "note": "END_TEST_MARKER"
+    }
+  ]
+}
